@@ -1,6 +1,6 @@
 # Setup-alpine
 
-##Creamos una maquina virtual llamada alpine1 y le pondremos un GB de RAM
+## Creamos una maquina virtual llamada alpine1 y le pondremos un GB de RAM
 
 ![Captura1](https://user-images.githubusercontent.com/91874404/166205423-515d3ae7-bc7e-4ab9-b006-73668aa765bb.PNG)
 
